@@ -61,3 +61,6 @@ _helpers
 Icon
 
 code-samples
+
+# machine-local symlink to ORESoftware/my-ai AGENTS.md; never committed
+.ores/
